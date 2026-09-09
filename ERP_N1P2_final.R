@@ -6,8 +6,6 @@ library(lme4)
 library(lmerTest)
 library(factoextra) 
 library(MKinfer)
-library(ggplot2)
-library(ggdist)
 library(gghalves)
 
 EG <- c("vp02ha", "vp02hl", "vp03hl", "vp04ha", "vp04hl", "vp05ha", "vp06ha", "vp07ha", "vp08ha", "vp09ha", "vp09hl",
